@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/mariopino/js-tendermint/issues"
   },
-  "homepage": "https://github.com/mariopino/js-tendermint#readme"
+  "homepage": "https://github.com/mariopino/js-tendermint#readme",
+  "dependencies": {
+    "tendermint": "^4.0.8"
+  }
 }
